@@ -14,12 +14,12 @@
 
       <div class="dice">
         <p>RISHABH</p>
-        <img class="img1" src="./images/dice6.png">
+        <img class="img1" src="dice6.png">
       </div>
 
       <div class="dice">
         <p>BHAVISHYA</p>
-        <img class="img2" src="./images/dice6.png">
+        <img class="img2" src="dice6.png">
       </div>
 
     </div>
